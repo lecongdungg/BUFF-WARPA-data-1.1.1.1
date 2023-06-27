@@ -139,5 +139,34 @@ while True:
     print("[:(] Error when connecting to server.")
     print(f"[#] Total: {g} Good {b} Bad")
 
-# key 1.1.1.1:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 # 931U0hNE-gR52E4i1-9U86Dm5y
